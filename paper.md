@@ -20,3 +20,5 @@ reagi
 # results
 
 the simulation works good
+# Figures
+figures go in theri own section in the draft paper.
