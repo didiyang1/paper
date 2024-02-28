@@ -3,7 +3,7 @@ a
 Aging pf biomass burning aerosls over west africa
 
 # Author
-
+John Smith
 Didi Yang
 
 # Introduction 
