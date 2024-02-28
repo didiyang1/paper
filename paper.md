@@ -1,10 +1,9 @@
 # Title
-a
 Aging pf biomass burning aerosls over west africa
 
 # Author
-John Smith
-Didi Yang
+John Smith 
+Didi Yang Manchester
 
 # Introduction 
 we present aircraft measuremnt of BBOA over west africa.
