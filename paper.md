@@ -2,8 +2,9 @@
 Aging pf biomass burning aerosls over west africa
 
 # Author
-John Smith 
-Didi Yang Manchester
+Didi Yang, Univerisity of manchester
+Didi Yang
+
 
 # Introduction 
 we present aircraft measuremnt of BBOA over west africa.
