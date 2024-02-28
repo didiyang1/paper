@@ -11,4 +11,6 @@ we present aircraft measuremnt of BBOA over west africa.
 
 partical size was measured using pcasp(Bloggs et al 2004)
 
+Jone 1998 conducted several studies in this reggion
+but continental-scale measurements have not previously been made
 
